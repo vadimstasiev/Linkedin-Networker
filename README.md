@@ -1,6 +1,9 @@
 # Linkedin Networker using someone else's network
 
-(Write desc...)
+This is a simple tool that I built in a few hours, it uses scraping software, so it can be a bit buggy, but hey, it's free to modify as you wish.
+You can use this tool to grow your linkedin network by using the network of one of your connections and automatically send an invitation to everyone on their list. Please use it responsibly.
+
+Also note, fyi, linkdin has a weekly cap of 100 requests to cap bots like this.
 
 # Configuration
 
